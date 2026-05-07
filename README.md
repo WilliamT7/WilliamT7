@@ -6,7 +6,6 @@ Games Technology student at Murdoch University with experience in Unity, C#, C++
 
 - Portfolio: https://williamt7.github.io
 - LinkedIn: http://www.linkedin.com/in/willtdev03
-- Resume: https://williamt7.github.io/data/resume/resume.pdf
 
 ## Skills
 
