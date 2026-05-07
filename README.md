@@ -25,7 +25,7 @@ A Murdoch University team project focused on developing a VR training simulation
 ### 3D Fishing Game — ICT290
 A Murdoch University assignment developed in C++ involving a 3D fishing game with player interaction, core gameplay mechanics, and object-based gameplay systems.
 
-### Terrain Rendering - ICT397
+### Terrain Rendering — ICT397
 A C++ and OpenGL project focused on terrain rendering, multi-texturing, shader work, detail maps, and experimental terrain lighting.
 
 ## Currently Working On
